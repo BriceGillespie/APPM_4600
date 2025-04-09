@@ -105,7 +105,6 @@ print("trap intervals:",s1,"Integral:",I1)
 print("simpson intervals:",s2,"Integral:",I2)
 print("gauss intervals:",s3,"Integral:",I3)
 
-# For reference, approximate known value:
 I_true=1.1455808341  
 
 Ms=np.arange(2,11)
